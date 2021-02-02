@@ -1,0 +1,7 @@
+C:\Users\Joe Krachey\Documents\ECE453\s21RapidPrototype\Software\01-HelloWorld.cydsn\01-HelloWorld.cyprj|ea34c31b-c36c-4b2e-bd99-6856e0a73177
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|e57f7556-86dd-4e49-ab14-cdc7b559d60d
+C:\Users\Joe Krachey\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|9e177203-b4de-40a7-b755-c8ce5cfff73c
+C:\Users\Joe Krachey\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|1a744b36-75b1-479a-8e1b-933a2b2b00fd
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|10ac862e-1980-42cc-b89d-10b1a7235c65
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|19c9593f-a20b-429a-9eab-f0d27b1dfb31
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|85ba11ea-838d-4bb3-bfe7-110c405e8325
