@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|861c786b-7892-4275-98c8-865dcef716a4
+C:\Users\Joe Krachey\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|20f2b150-2ef8-4bcb-8263-8157b05acad5
+C:\Users\Joe Krachey\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|cdd118f0-dcaf-4821-80f7-3d78b10a3b65
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|766ee9fb-3c11-4807-aee8-6e1eedbd9d6b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|295691d0-1d87-497a-bebd-05cd566ad27d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|e506686f-0aa8-436e-bfea-538f3cb06df2
+C:\Users\Joe Krachey\Documents\ECE453\s21RapidPrototype\Software\02-FreeRTOS.cydsn\02-FreeRTOS.cyprj|daf5362b-65c9-4775-9a8e-d4357c6239be
